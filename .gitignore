@@ -1,1 +1,3 @@
 node_modules
+.vscode/launch.json
+.nyc_output/43f858d89fbfe3ea26caa7fa736682fd.json
